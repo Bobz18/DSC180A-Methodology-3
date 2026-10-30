@@ -1,3 +1,3 @@
 # DSC180A-Methodology-3
-Bobby Zhou
-hez018@ucsd.edu
+<<<<<<< HEAD
+Bobby Zhou and Mingrui Zhuang
